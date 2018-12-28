@@ -1,7 +1,6 @@
 # YHCFilePicker
 iOS实现文件上传功能
-
-## 通过iCloud实现iOS端的上传文件功能
+通过iCloud实现iOS端的上传文件功能
 
 ## 使用方法
 1.导入头文件
@@ -21,5 +20,5 @@ filePicker.pushfileListBlock = ^(NSArray<YHCFileModel *> * _Nonnull list) {
 ```
 
 ## 效果如下
-![头像](https://github.com/Thered-key/YHCFilePicker/blob/master/Files/Simulator%20Screen%20Shot%20-%20iPhone%20XS%20Max%20-%202018-12-28%20at%2016.24.51.png)
+![效果](https://github.com/Thered-key/YHCFilePicker/blob/master/Files/Simulator%20Screen%20Shot%20-%20iPhone%20XS%20Max%20-%202018-12-28%20at%2016.24.51.png)
 
