@@ -22,3 +22,5 @@ filePicker.pushfileListBlock = ^(NSArray<YHCFileModel *> * _Nonnull list) {
 ## 效果如下
 ![效果](https://github.com/Thered-key/YHCFilePicker/blob/master/Files/Simulator%20Screen%20Shot%20-%20iPhone%20XS%20Max%20-%202018-12-28%20at%2016.24.51.png)
 
+### 喜欢的给个小星星哦
+
