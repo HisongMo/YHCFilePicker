@@ -240,7 +240,7 @@
 		80FAAE6021D5CB0900D6E35E /* FileUploadDemo */ = {
 			isa = PBXGroup;
 			children = (
-				80FAAE9321D5CF0200D6E35E /* FileUpload */,
+				80FAAE9321D5CF0200D6E35E /* YHCFileUpload */,
 				80FAAE6121D5CB0900D6E35E /* AppDelegate.h */,
 				80FAAE6221D5CB0900D6E35E /* AppDelegate.m */,
 				80FAAE6421D5CB0900D6E35E /* ViewController.h */,
@@ -272,7 +272,7 @@
 			path = FileUploadDemoUITests;
 			sourceTree = "<group>";
 		};
-		80FAAE9321D5CF0200D6E35E /* FileUpload */ = {
+		80FAAE9321D5CF0200D6E35E /* YHCFileUpload */ = {
 			isa = PBXGroup;
 			children = (
 				80FAAEC321D601B200D6E35E /* YYCategories */,
@@ -286,7 +286,7 @@
 				80FAAF2621D6071200D6E35E /* YHCFileModel.h */,
 				80FAAF2721D6071200D6E35E /* YHCFileModel.m */,
 			);
-			path = FileUpload;
+			path = YHCFileUpload;
 			sourceTree = "<group>";
 		};
 		80FAAE9A21D5F0B300D6E35E /* Masonry */ = {
